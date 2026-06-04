@@ -10,6 +10,7 @@ const links = [
   { label: "App", href: "#portfolio" },
   { label: "Contato", href: "mailto:regy@papirar.app" },
   { label: "Política", href: "/politica-de-privacidade.html" },
+  { label: "Excluir conta", href: "/exclusao-de-conta.html" },
 ]
 
 export function WebsiteMenu({ isOpen, onClose }: WebsiteMenuProps) {
