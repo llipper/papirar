@@ -20,6 +20,7 @@ export function PolicySection() {
         </p>
         <div className="policy-links">
           <a href="mailto:regy@papirar.app">regy@papirar.app</a>
+          <a href="/fontes-oficiais.html">Fontes oficiais</a>
           <a href="/politica-de-privacidade.html">Política completa</a>
           <a href="/exclusao-de-conta.html">Excluir conta</a>
           <a href="#inicio">Voltar ao início</a>

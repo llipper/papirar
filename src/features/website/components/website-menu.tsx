@@ -9,6 +9,7 @@ const links = [
   { label: "Recursos", href: "#servicos" },
   { label: "App", href: "#portfolio" },
   { label: "Contato", href: "mailto:regy@papirar.app" },
+  { label: "Fontes oficiais", href: "/fontes-oficiais.html" },
   { label: "Política", href: "/politica-de-privacidade.html" },
   { label: "Excluir conta", href: "/exclusao-de-conta.html" },
 ]
